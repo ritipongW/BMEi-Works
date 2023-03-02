@@ -13,4 +13,4 @@ The container of BMEi Projects, code files, Hardware Diagrams
 
 # Micro SD Card and ESP32 Turtorial links
 - https://www.electronicwings.com/esp32/microsd-card-interfacing-with-esp32
-- https://randomnerdtutorials.com/esp32-spi-communication-arduino/
+- https://randomnerdtutorials.com/esp32-spi-communication-arduino/ (ESP32 SPI Peripherals)
